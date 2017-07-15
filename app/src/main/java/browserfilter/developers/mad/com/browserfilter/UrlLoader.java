@@ -34,7 +34,7 @@ public class UrlLoader extends AppCompatActivity {
 
 //Stric mode allow network call on main thread ..
 
-
+//
 
         StrictMode.ThreadPolicy threadPolicy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
 
